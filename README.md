@@ -77,6 +77,6 @@ This project helped improve skills in:
 This project is open-source and available under the [MIT License]
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keshav-khandelwal/covid19-vaccination-dashboard/refs/heads/main/screenshots-tableau-project/1731692386377.jpg" width="500" />
+  <img src="https://raw.githubusercontent.com/keshav-khandelwal/covid19-vaccination-dashboard/refs/heads/main/screenshots-tableau-project/1731692386377.jpg" width="2000" />
 </p>
 
